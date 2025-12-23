@@ -1,0 +1,2 @@
+This is an example file created using 'x' mode.
+This will raise an error if the file already exists.

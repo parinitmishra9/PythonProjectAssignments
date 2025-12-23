@@ -1,0 +1,2 @@
+This is an example file created using 'w' mode.
+This will overwrite the file if it already exists.
