@@ -1,0 +1,14 @@
+This is test file.
+We are learning about file handling.
+Modes to open files:
+- 'r' : Read mode
+- 'w' : Write mode
+- 'a' : Append mode
+- 'b' : Binary mode
+- 't' : Text mode
+- '+' : Read and Write mode
+Note:
+- The default mode is 'rt' (read text).
+- We can combine modes like 'rb' (read binary) or 'w+' (write and read).
+
+End of file.
