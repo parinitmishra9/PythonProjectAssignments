@@ -1,0 +1,29 @@
+{
+    "student_1": {
+        "name": "John",
+        "age": 21,
+        "courses": [
+            "Math",
+            "CompSci"
+        ],
+        "sports": true
+    },
+    "student_2": {
+        "name": "Jane",
+        "age": 22,
+        "courses": [
+            "History",
+            "Art"
+        ],
+        "sports": false
+    },
+    "student_3": {
+        "name": "Dave",
+        "age": 20,
+        "courses": [
+            "Biology",
+            "Chemistry"
+        ],
+        "sports": true
+    }
+}
