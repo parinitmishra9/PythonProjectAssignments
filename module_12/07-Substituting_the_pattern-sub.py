@@ -67,3 +67,10 @@ result8 = re.sub(pattern8, replacement8, text8, flags=re.IGNORECASE)
 print("Example 8 Result:", result8)
 # Output: Java is fun. Java is easy.
 
+# Replacing multiple patterns using a single sub() call
+text9 = "I have a cat, a dog, and a bird."
+pattern9 = r'cat|dog|bird'
+replacement9 = 'pet'
+result9 = re.sub(pattern9, replacement9, text9)
+print("Example 9 Result:", result9)
+# Output: I have a pet, a pet, and a pet.
